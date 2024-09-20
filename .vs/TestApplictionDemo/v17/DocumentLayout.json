@@ -1,7 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Kamal\\.net Training\\20sep\\TestApplictionDemo\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Kamal\\.net Training\\20sep\\developbranchcode\\TestCodeDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{979AA179-B20D-49C8-AC13-96EAEE4CDE5A}|TestApplictionDemo\\TestApplictionDemo.csproj|c:\\kamal\\.net training\\20sep\\developbranchcode\\testcodedemo\\testapplictiondemo\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979AA179-B20D-49C8-AC13-96EAEE4CDE5A}|TestApplictionDemo\\TestApplictionDemo.csproj|solutionrelative:testapplictiondemo\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979AA179-B20D-49C8-AC13-96EAEE4CDE5A}|TestApplictionDemo\\TestApplictionDemo.csproj|c:\\kamal\\.net training\\20sep\\developbranchcode\\testcodedemo\\testapplictiondemo\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979AA179-B20D-49C8-AC13-96EAEE4CDE5A}|TestApplictionDemo\\TestApplictionDemo.csproj|solutionrelative:testapplictiondemo\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Kamal\\.net Training\\20sep\\developbranchcode\\TestCodeDemo\\TestApplictionDemo\\Models\\Register.cs",
+              "RelativeDocumentMoniker": "TestApplictionDemo\\Models\\Register.cs",
+              "ToolTip": "C:\\Kamal\\.net Training\\20sep\\developbranchcode\\TestCodeDemo\\TestApplictionDemo\\Models\\Register.cs",
+              "RelativeToolTip": "TestApplictionDemo\\Models\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T12:17:07.482Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Kamal\\.net Training\\20sep\\developbranchcode\\TestCodeDemo\\TestApplictionDemo\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "TestApplictionDemo\\Models\\Login.cs",
+              "ToolTip": "C:\\Kamal\\.net Training\\20sep\\developbranchcode\\TestCodeDemo\\TestApplictionDemo\\Models\\Login.cs",
+              "RelativeToolTip": "TestApplictionDemo\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T12:02:50.489Z",
+              "EditorCaption": ""
             }
           ]
         }
